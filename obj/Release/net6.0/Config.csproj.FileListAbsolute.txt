@@ -1,0 +1,17 @@
+C:\Users\twisted\source\repos\Config\bin\Release\net6.0\Config.exe
+C:\Users\twisted\source\repos\Config\bin\Release\net6.0\Config.deps.json
+C:\Users\twisted\source\repos\Config\bin\Release\net6.0\Config.runtimeconfig.json
+C:\Users\twisted\source\repos\Config\bin\Release\net6.0\Config.dll
+C:\Users\twisted\source\repos\Config\bin\Release\net6.0\Config.pdb
+C:\Users\twisted\source\repos\Config\obj\Release\net6.0\Config.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\twisted\source\repos\Config\obj\Release\net6.0\Config.AssemblyInfoInputs.cache
+C:\Users\twisted\source\repos\Config\obj\Release\net6.0\Config.AssemblyInfo.cs
+C:\Users\twisted\source\repos\Config\obj\Release\net6.0\Config.csproj.CoreCompileInputs.cache
+C:\Users\twisted\source\repos\Config\obj\Release\net6.0\Config.dll
+C:\Users\twisted\source\repos\Config\obj\Release\net6.0\refint\Config.dll
+C:\Users\twisted\source\repos\Config\obj\Release\net6.0\Config.pdb
+C:\Users\twisted\source\repos\Config\obj\Release\net6.0\Config.genruntimeconfig.cache
+C:\Users\twisted\source\repos\Config\obj\Release\net6.0\ref\Config.dll
+C:\Users\twisted\source\repos\Config\bin\Release\net6.0\Newtonsoft.Json.dll
+C:\Users\twisted\source\repos\Config\obj\Release\net6.0\Config.csproj.AssemblyReference.cache
+C:\Users\twisted\source\repos\Config\obj\Release\net6.0\Config.csproj.CopyComplete
